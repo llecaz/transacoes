@@ -81,7 +81,7 @@ Observe o que aconteceu com os valores.
 
 -- EXERCÍCIO 5: CONSULTAR O HISTÓRICO
 
-```MySQL
+
 -- TRANSACTIONS
 
 -- Criar a tabela contas

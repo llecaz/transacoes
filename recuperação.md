@@ -1,4 +1,4 @@
-```sql
+```MySQL
 -- RECUPERAÇÃO: TRIGGERS, VIEWS E TRANSACTIONS
 
 -- EXERCÍCIO 1: CRIAR AS TABELAS
@@ -61,7 +61,6 @@ WHERE id = 1;
 
 -- Segunda alteração
 
-```sql
 Realize a transferência utilizando uma Transação.
 
 1. Inicie utilizando START TRANSACTION;
@@ -81,7 +80,8 @@ Depois, faça uma nova transferência de R$ 200,00 de Carlos para Ana, mas desta
 Observe o que aconteceu com os valores.
 
 -- EXERCÍCIO 5: CONSULTAR O HISTÓRICO
-```sql
+
+```MySQL
 -- TRANSACTIONS
 
 -- Criar a tabela contas
